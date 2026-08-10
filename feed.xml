@@ -8,6 +8,14 @@
 <itunes:author>ITPS</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>ITPS Drive Home — 2026-08-10</title>
+<description>ITPS lecture recap for 2026-08-10.</description>
+<guid isPermaLink="false">itps-podcast-2026-08-10</guid>
+<pubDate>Mon, 10 Aug 2026 16:30:00 +0000</pubDate>
+<enclosure url="https://archive.org/download/itps-podcast-2026-08-10/2026-08-10-itps-podcast.mp3" length="3229056" type="audio/mpeg"/>
+<itunes:duration>0:04:29</itunes:duration>
+</item>
+<item>
 <title>ITPS Drive Home — Aug 9: Hover, Vertical Climb &amp; Vortex Ring State</title>
 <description>Rotor power in the hover, how it changes in vertical flight, the four rotor working states, and why vortex ring state is the one region of the vertical envelope you actively avoid.</description>
 <guid isPermaLink="false">itps-podcast-2026-08-09</guid>

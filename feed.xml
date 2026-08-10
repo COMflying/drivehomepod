@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>ITPS Drive Home</title>
+<link>https://COMflying.github.io/drivehomepod</link>
+<description>Daily ITPS lecture recap, drive-home length. Private feed.</description>
+<language>en</language>
+<itunes:author>ITPS</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<item>
+<title>ITPS Drive Home — Aug 9: Hover, Vertical Climb &amp; Vortex Ring State</title>
+<description>Rotor power in the hover, how it changes in vertical flight, the four rotor working states, and why vortex ring state is the one region of the vertical envelope you actively avoid.</description>
+<guid isPermaLink="false">itps-podcast-2026-08-09</guid>
+<pubDate>Sun, 09 Aug 2026 16:30:00 +0000</pubDate>
+<enclosure url="https://archive.org/download/itps-podcast-2026-08-09/2026-08-09-itps-podcast.mp3" length="4938336" type="audio/mpeg"/>
+<itunes:duration>0:06:51</itunes:duration>
+</item>
+</channel>
+</rss>

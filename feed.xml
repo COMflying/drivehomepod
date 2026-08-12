@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>ITPS Drive Home</title>
+<title>Drive Home Pod</title>
 <link>https://COMflying.github.io/drivehomepod</link>
-<description>Daily ITPS lecture recap, drive-home length. Private feed.</description>
+<description>Daily lecture recap, drive-home length. Private feed.</description>
 <language>en</language>
-<itunes:author>ITPS</itunes:author>
+<itunes:author>Drive Home Pod</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://COMflying.github.io/drivehomepod/cover.jpg"/>
+<image>
+<url>https://COMflying.github.io/drivehomepod/cover.jpg</url>
+<title>Drive Home Pod</title>
+<link>https://COMflying.github.io/drivehomepod</link>
+</image>
+<item>
+<title>2026-08-12 — Climb and Descent Performance, Autorotation Physics</title>
+<description>Topics: Climb and Descent Performance, Autorotation Physics.</description>
+<guid isPermaLink="false">itps-podcast-2026-08-12</guid>
+<pubDate>Wed, 12 Aug 2026 16:30:00 +0000</pubDate>
+<enclosure url="https://archive.org/download/itps-podcast-2026-08-12/2026-08-12-itps-podcast.mp3" length="3210912" type="audio/mpeg"/>
+<itunes:duration>0:04:27</itunes:duration>
+</item>
 <item>
 <title>ITPS Drive Home — 2026-08-10</title>
 <description>ITPS lecture recap for 2026-08-10.</description>
